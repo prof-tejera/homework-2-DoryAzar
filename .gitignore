@@ -1,6 +1,5 @@
 .DS_Store?
 .DS_Store
-package-lock.json
 .vscode
 node_modules
 build
